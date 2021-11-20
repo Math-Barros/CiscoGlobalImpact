@@ -6,6 +6,7 @@ This is a Cisco Packet Tracer construction of the topologies of local networks i
 
 ## Preview
 ![Preview](/Preview.png)
+![Preview2](/Preview2.png)
 
 ### Getting Started
 
