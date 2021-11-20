@@ -6,8 +6,10 @@ This is a Cisco Packet Tracer construction of the topologies of local networks i
 
 ## Preview
 ![Preview](/Preview.png)
-![Preview2](/Preview2.png)
+
 
 ### Getting Started
 
 Run the project with [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer). 
+
+![Preview2](/Preview2.png)
